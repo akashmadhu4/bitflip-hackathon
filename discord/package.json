@@ -4,7 +4,9 @@
   "description": "discordbot",
   "main": "discordbot.js",
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.12"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
